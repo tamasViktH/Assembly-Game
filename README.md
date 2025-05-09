@@ -18,9 +18,6 @@
 
 🔗 [Play Assembly Endgame on Netlify](https://assembly-endgame-hazos.netlify.app)
 
-📦 [View Source Code on GitHub](https://github.com/yourusername/assembly-endgame)  
-> *(Replace this GitHub link with your actual repo URL)*
-
 ---
 
 ## 🛠 Tech Stack
