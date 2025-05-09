@@ -50,9 +50,3 @@
 - Managing win/loss conditions in real time
 
 ---
-
-## 🎯 Built As Part Of
-
-The [Scrimba Frontend Developer Career Path](https://scrimba.com/learn/frontend), focused on real-world, project-based learning.
-
----
